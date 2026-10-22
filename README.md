@@ -1,2 +1,2 @@
-# github-demo
-Jag lär mig githubs funktioner
+
+print ("Hello world")
